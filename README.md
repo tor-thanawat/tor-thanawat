@@ -1,9 +1,14 @@
-## Hi there 👋
+## 👋 Howdy, folks! I'm Tor 🖖
+In Thai, "Tor" means "connection." 🔗
+
+🤖 When it comes to toys, Tor is all about connecting things—piece by piece—like LEGO and Gunpla!
+
+And in Marvel? Well, I'm as cool as T(h)or!⚡ 🤣
+
+> ⚠️ Heads-up: This is my current repo!  
+> My old one? Well… it got snapped by 2FA Thanos when I changed phones 😅
 
 <!--
-**tor-thanawat/tor-thanawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
